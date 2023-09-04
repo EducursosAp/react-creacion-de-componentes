@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>Frase de Gatos</h1>
 
-      <CatFactGenerator></CatFactGenerator>
+      <Todo></Todo>
       
     </>
   );
