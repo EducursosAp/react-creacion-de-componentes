@@ -6,7 +6,7 @@ function App() {
   return (
     //React Fragment
     <>
-      <h1>Frase de Gatos</h1>
+      <h1>Lista de Tareas</h1>
 
       <Todo></Todo>
       
